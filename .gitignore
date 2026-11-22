@@ -1,0 +1,6 @@
+.netlify/
+__pycache__/
+*.pyc
+.env*
+# interno: mostra o custo da loja
+relatorios/fora-do-site.csv
