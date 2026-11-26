@@ -1,0 +1,5 @@
+# Token e dados do servidor: nunca vão para o Git
+privado/config.php
+privado/ekoos-cert.pem
+privado/dados/
+public_html/dados/estoque.json

@@ -71,3 +71,8 @@ Depende de escolher o **gateway** (Rede da loja, Mercado Pago ou Pagar.me). Com 
 recalculado, cartão por campo seguro do gateway (a loja nunca vê o número), Pix, webhook assinado, verificação
 anti-robô (Turnstile) e limite de tentativas, banco com CPF e endereço criptografados, painel da loja com 2 etapas,
 backup diário. Tudo descrito para o cliente em `/compra-segura/`.
+
+## Integração com o sistema da loja
+
+Em `integracao-ekoos/`: sincronização de preço e estoque com o sistema da loja (EkoOS) e conferência na hora da
+compra. Passo a passo da instalação na Hostinger em `integracao-ekoos/LEIA-ME.md`.

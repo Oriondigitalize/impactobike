@@ -1,0 +1,2 @@
+# Esta pasta deve ficar FORA do public_html. Se por engano for parar dentro, o servidor bloqueia tudo.
+Require all denied

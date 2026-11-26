@@ -1,0 +1,10 @@
+/* Aviso de estoque na sacola e no fechamento (estoque-site.js). Pode colar no fim do site.css. */
+.aviso-estoque {
+  margin: 0 0 16px;
+  padding: 12px 14px;
+  border: 1px solid #C8383F;
+  border-radius: 8px;
+  background: #FDECEE;
+  color: #7A1D22;
+  font-weight: 600;
+}
